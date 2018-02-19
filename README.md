@@ -1,4 +1,4 @@
-# NieRAutomata_LVL-EXP_Editor
+# NieR: Automata - Lvl & EXP Editor
 An save editor for NieR: Automata that allows the editing of experience and levels of a save slot.
 
 This have only been briefly tested with various saves, so ensure you have backups before making full use of it.
